@@ -12,8 +12,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Riverpod Task App',
-      home: HomeScreen(),
+      title: 'Aleks Test',
+      home: HomePage(),
     );
   }
 }

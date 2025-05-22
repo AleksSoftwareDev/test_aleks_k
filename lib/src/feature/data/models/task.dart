@@ -1,3 +1,4 @@
+// Description: This file defines the Task model class, which represents a task with an ID, title, and completion status.
 class Task {
   final String id;
   final String title;
